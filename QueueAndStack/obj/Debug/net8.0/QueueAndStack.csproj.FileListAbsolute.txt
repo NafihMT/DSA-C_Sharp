@@ -1,0 +1,14 @@
+E:\.NET\DSA\QueueAndStack\bin\Debug\net8.0\QueueAndStack.exe
+E:\.NET\DSA\QueueAndStack\bin\Debug\net8.0\QueueAndStack.deps.json
+E:\.NET\DSA\QueueAndStack\bin\Debug\net8.0\QueueAndStack.runtimeconfig.json
+E:\.NET\DSA\QueueAndStack\bin\Debug\net8.0\QueueAndStack.dll
+E:\.NET\DSA\QueueAndStack\bin\Debug\net8.0\QueueAndStack.pdb
+E:\.NET\DSA\QueueAndStack\obj\Debug\net8.0\QueueAndStack.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\DSA\QueueAndStack\obj\Debug\net8.0\QueueAndStack.AssemblyInfoInputs.cache
+E:\.NET\DSA\QueueAndStack\obj\Debug\net8.0\QueueAndStack.AssemblyInfo.cs
+E:\.NET\DSA\QueueAndStack\obj\Debug\net8.0\QueueAndStack.csproj.CoreCompileInputs.cache
+E:\.NET\DSA\QueueAndStack\obj\Debug\net8.0\QueueAndStack.dll
+E:\.NET\DSA\QueueAndStack\obj\Debug\net8.0\refint\QueueAndStack.dll
+E:\.NET\DSA\QueueAndStack\obj\Debug\net8.0\QueueAndStack.pdb
+E:\.NET\DSA\QueueAndStack\obj\Debug\net8.0\QueueAndStack.genruntimeconfig.cache
+E:\.NET\DSA\QueueAndStack\obj\Debug\net8.0\ref\QueueAndStack.dll
