@@ -79,7 +79,7 @@ namespace Tree
 
                     Node minNode = FindMin(root.right);             // left most node(Minimum value) in right tree
                     root.Data = minNode.Data;                       // replace root.data with inorder successor
-                   2 root.right = Delete(root.right, minNode.Data);  // Deleting inorder successor(root.right)
+                    root.right = Delete(root.right, minNode.Data);  // Deleting inorder successor(root.right)
                 }
                 return root;
             }            

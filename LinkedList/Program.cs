@@ -260,6 +260,14 @@
             //dl.InsertAtHead(20);
             //dl.InsertAtHead(30);
 
+            Console.WriteLine();
+            PracticeDLL pl = new PracticeDLL();
+            pl.InsertAtHead(10);
+            pl.InsertAtHead(20);
+            pl.InsertAtHead(30);
+            pl.InsertAtPosition(2, 11);
+            pl.ReverseL();
+            pl.DisplayBckwd();
         }
     }
 }

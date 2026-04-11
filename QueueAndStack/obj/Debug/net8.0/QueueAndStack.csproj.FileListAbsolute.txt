@@ -12,3 +12,4 @@ E:\.NET\DSA\QueueAndStack\obj\Debug\net8.0\refint\QueueAndStack.dll
 E:\.NET\DSA\QueueAndStack\obj\Debug\net8.0\QueueAndStack.pdb
 E:\.NET\DSA\QueueAndStack\obj\Debug\net8.0\QueueAndStack.genruntimeconfig.cache
 E:\.NET\DSA\QueueAndStack\obj\Debug\net8.0\ref\QueueAndStack.dll
+E:\.NET\DSA\QueueAndStack\obj\Debug\net8.0\QueueAndStack.sourcelink.json

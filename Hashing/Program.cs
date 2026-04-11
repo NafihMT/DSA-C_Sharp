@@ -18,6 +18,13 @@
             Console.WriteLine(s1.Equals(s2));
             Console.WriteLine(s1.GetHashCode());
             Console.WriteLine(s2.GetHashCode());
+
+            Console.WriteLine("-------------------------------------------");
+
+
+            HashTable h1 = new HashTable(1);
+
+            Console.WriteLine(h1.GetIndex(1));
         }
     }
 }

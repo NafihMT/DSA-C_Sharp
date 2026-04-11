@@ -12,3 +12,4 @@ E:\.NET\DSA\LinkedList\obj\Debug\net8.0\refint\LinkedList.dll
 E:\.NET\DSA\LinkedList\obj\Debug\net8.0\LinkedList.pdb
 E:\.NET\DSA\LinkedList\obj\Debug\net8.0\LinkedList.genruntimeconfig.cache
 E:\.NET\DSA\LinkedList\obj\Debug\net8.0\ref\LinkedList.dll
+E:\.NET\DSA\LinkedList\obj\Debug\net8.0\LinkedList.sourcelink.json
